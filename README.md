@@ -12,11 +12,13 @@
 *Particularly:*
 * stdin
 * stdout
-* Ciclos
+* Cycles
 * Inquirer
-* Clases en JavaScript
-* Archivos JSON
-* Fuertemente async y await
-* Transformaciones
+* Class JavaScript
+* JSON
+* Strong async y await
+* Transformations
+* UUID
+* Colors
 
-## *Thanks for stopping by here!*
+### *Thanks for stopping by here!*
